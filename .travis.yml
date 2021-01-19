@@ -6,7 +6,6 @@
 sudo: enabled
 
 install:
-install:
   - sudo bash -c "$(curl -LSs https://github.com/dfmgr/installer/raw/master/install.sh)"
   - sudo pkmgr init
   - pkmgr update

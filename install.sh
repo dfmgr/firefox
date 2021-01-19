@@ -179,8 +179,8 @@ run_postinst() {
   ! cmd_exists firefox-esr || ln_sf "$(command -v firefox-esr)" "$BIN/firefox"
   [ -d "$HOME/.mozilla/firefox/.git" ] || rm_rf "$HOME/.mozilla"
   [ -d "$HOME/.cache/mozilla/firefox" ] && rm_rf "$HOME/.cache/mozilla"
-  mkd "$HOME/.mozilla"
-  cp_rf "$DOWNLOADED_TO" "$HOME/.mozilla/firefox"
+  mkd "$HOME/.mozilla/firefox"
+  cp_rf "$DOWNLOADED_TO/etc/." "$HOME/.mozilla/firefox/"
 }
 
 execute \
