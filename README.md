@@ -40,7 +40,7 @@ brew install firefox
 mv -fv "$HOME/.config/firefox" "$HOME/.config/firefox.bak"
 mv -fv "$HOME/.mozilla" "$HOME/.mozilla.bak"
 git clone https://github.com/dfmgr/firefox "$HOME/.config/firefox"
-mkdir -p "$HOME/.mozilla"; ln -sf "$APPDIR" "$HOME/.mozilla/firefox"
+mkdir -p "$HOME/.mozilla"; ln -sf "$DOWNLOADED_TO" "$HOME/.mozilla/firefox"
 
 ```
   
