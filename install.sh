@@ -50,6 +50,7 @@ scripts_check
 # Defaults
 APPNAME="${APPNAME:-firefox}"
 APPDIR="${APPDIR:-$HOME/.config/$APPNAME}"
+INSTDIR="${INSTDIR}"
 REPO="${DFMGRREPO:-https://github.com/dfmgr}/${APPNAME}"
 REPORAW="${REPORAW:-$REPO/raw}"
 APPVERSION="$(__appversion)"
@@ -141,13 +142,13 @@ if [ -d "$APPDIR" ]; then
   execute "backupapp $APPDIR $APPNAME" "Backing up $APPDIR"
 fi
 
-if [ -d "$DOWNLOADED_TO/.git" ]; then
+if [ -d "$INSTDIR/.git" ]; then
   execute \
-    "git_update $DOWNLOADED_TO" \
+    "git_update $INSTDIR" \
     "Updating $APPNAME configurations"
 else
   execute \
-    "git_clone $REPO/$APPNAME $DOWNLOADED_TO" \
+    "git_clone $REPO/$APPNAME $INSTDIR" \
     "Installing $APPNAME configurations"
 fi
 
@@ -182,7 +183,7 @@ fi
 run_postinst() {
   dfmgr_run_post
   ! cmd_exists firefox-esr || ln_sf "$(command -v firefox-esr)" "$BIN/firefox"
-  [ -d "$DOWNLOADED_TO/.git" ] || rm_rf "$HOME/.mozilla"
+  [ -d "$INSTDIR/.git" ] || rm_rf "$HOME/.mozilla"
   [ -d "$HOME/.cache/mozilla/firefox" ] && rm_rf "$HOME/.cache/mozilla"
   ln_sf "$APPDIR" "$HOME/.mozilla/firefox"
 }
