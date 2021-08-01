@@ -5,7 +5,7 @@ A popular open source graphical web browser
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/firefox/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/firefox/raw/main/install.sh)"
 ```
 
 Manual install:
