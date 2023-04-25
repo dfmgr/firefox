@@ -1,1 +1,345 @@
-{"schema":6,"addons":[{"id":"{b9db16a4-6edc-47ec-a1f4-b86292ed211d}","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-32.png?modified=mcrushed","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-64.png?modified=mcrushed","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-128.png?modified=mcrushed"},"type":"extension","name":"Video DownloadHelper","version":"7.3.7","creator":{"name":"mig","url":"https://addons.mozilla.org/en-US/firefox/user/32479/"},"developers":[],"description":"The easy way to download and convert Web videos from hundreds of YouTube-like sites.","fullDescription":"Video DownloadHelper is the most complete tool for extracting videos and image files from websites and saving them to your hard drive.\n\nJust surf the web as you normally do. When DownloadHelper detects embedded videos it can access for download, the toolbar icon highlights and a simple menu allows you to download files by simply clicking an item.\n\nFor instance, if you go to a YouTube page, you'll be able to download the video directly on your file system. It also works with most other popular video sites like DailyMotion, Facebook, Periscope, Vimeo, Twitch, Liveleak, Vine, UStream, Fox, Bloomberg, RAI, France 2-3, Break, Metacafe, and thousands of others.\n\nVideo DownloadHelper supports several types of streamings, making the add-on unique amongst Video downloaders: HTTP, HLS, DASH, … Whenever a site uses a non-supported streaming technology, Video DownloadHelper is able to capture the media directly from the screen and generate a video file.\n\nBesides downloading, Video DownloadHelper is also capable of making file conversions (i.e. change audio and video formats) and aggregation (combining separate audio and video into a single file). This is an upgrade feature that helps pay for the free stuff (we need to eat too). You are not compelled to use conversion for downloading videos from websites, and you can avoid picking variants marked as ADP to avoid the need for aggregation.\n\nVideo overview on how to use Video DownloadHelper: https://www.youtube.com/watch?v=mZT8yI60k_4\n\nSupport can be obtained from the dedicated support forum.\n\nPlease stay tuned by following us on Twitter (@downloadhelper), or Facebook.","screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/25/25993.png?modified=1543518772","width":200,"height":150,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/25/25993.png?modified=1543518772","thumbnailWidth":200,"thumbnailHeight":150,"caption":"Video DownloadHelper"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/154/154820.png?modified=1543518772","width":327,"height":124,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154820.png?modified=1543518772","thumbnailWidth":327,"thumbnailHeight":124,"caption":"Video DownloadHelper animated toobar icon"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/154/154824.png?modified=1543518773","width":250,"height":200,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154824.png?modified=1543518773","thumbnailWidth":250,"thumbnailHeight":200,"caption":"Video DownloadHelper main panel"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/154/154822.png?modified=1543518774","width":361,"height":289,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154822.png?modified=1543518774","thumbnailWidth":361,"thumbnailHeight":289,"caption":"Video DownloadHelper main panel"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/154/154826.png?modified=1543518774","width":320,"height":317,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154826.png?modified=1543518774","thumbnailWidth":320,"thumbnailHeight":317,"caption":"Video DownloadHelper available actions"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/154/154828.png?modified=1543518775","width":293,"height":250,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154828.png?modified=1543518775","thumbnailWidth":293,"thumbnailHeight":250,"caption":"Video DownloadHelper quality variants settings"}],"homepageURL":"http://www.downloadhelper.net/","supportURL":"http://www.downloadhelper.net/support.php","contributionURL":"","averageRating":4.2773,"reviewCount":16491,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/reviews/","weeklyDownloads":129208,"sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3054598/video_downloadhelper-7.3.7-fx.xpi?src=","updateDate":1583224811000},{"id":"support@lastpass.com","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/8/8542-32.png?modified=mcrushed","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/8/8542-64.png?modified=mcrushed","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/8/8542-128.png?modified=mcrushed"},"type":"extension","name":"LastPass Password Manager","version":"4.43.1.2","creator":{"name":"LastPass","url":"https://addons.mozilla.org/en-US/firefox/user/2338345/"},"developers":[],"description":"LastPass, an award-winning password manager, saves your passwords and gives you secure access from every computer and mobile device.","fullDescription":"LastPass is a password manager that simplifies everything you do online by remembering your passwords, logging into your sites with one click, creating strong passwords for every account, and so much more.\n\nJoin over 10 million people who love getting more done every day with our award-winning password manager!\n\nWith LastPass, you only remember one master password and LastPass takes care of the rest. It fills your logins for you and instantly syncs from your desktop to your laptop, your computer to your smartphone, your tablet to the web, so you never struggle to remember another password. LastPass is free no matter what device you use!\n\nWhy Use a Password Manager?\n- Save, encrypt and backup all your passwords and logins, automatically\n- Sync your data no matter which browser, computer, or mobile device you use\n- Only one strong master password to remember\n- Securely store more logins, with more universal recognition of websites, including bank logins\n- All the features you need to be more productive and efficient\n- Only YOU know your master password, LastPass never has your key\n- Secure offline access to your data via the browser extensions and mobile apps\n\nSave Everything & Increase Productivity:\n- Store login usernames and passwords for all online accounts\n- Fill web logins automatically - no typing required!\n- Checkout fast with shopping profiles\n- Create Secure Notes to store memberships, credit cards, & other important records\n- Attach documents, PDFs, images, audio, and more\n- Keep everything organized in a searchable “vault”\n- Collaborate with others with more secure password sharing features\n\nUniversal Access:\n- Add LastPass to any browser on any computer\n- Login with the same LastPass account everywhere\n- Sync all of your passwords and data automatically\n- Have convenient access to your passwords on all your devices, including any desktop, laptop, smartphone, or tablet\n\nSecurity First:\n- Generate secure passwords to replace weak ones\n- Change passwords automatically on over 75 sites with Auto-Password Change\n- Create strong, unique passwords as you sign up for new websites\n- Protect your LastPass account with multifactor authentication\n- Audit your passwords with the LastPass Security Challenge\n- Flexible security features like autologoff options and master password reprompts\n\nLastPass Data:\nAll of your sensitive vault data, including passwords, secure notes, and uploads is protected through comprehensive measures including use of AES 256 encryption with salting and hashing (for more information regarding LastPass' security features, please visit here):\n- All your passwords and other saved sensitive items are stored in an encrypted manner that is never visible to LastPass in its unencrypted form.\n- This ‘zero-knowledge' model is designed to ensure that the items you save in your LastPass vault may only be decrypted client-side via a Master Password that only the user possesses.\n- LastPass may collect certain high-level usage data (i.e., domain-level URLs) in order to provide a better user experience and customer support.\n\nThe binary component, if optionally installed, will securely communicate with the extension to enable additional functionality including the handling of attachments and syncing logins across clients locally on your computer.\n\nPersonal Data:\nLastPass collects and maintains data as necessary to provide, operate, and support our services. We may collect information* which includes but is not limited to:\n- Your LastPass account information, which includes account owner, account type, as well as payment and transactional information.\n- Your usage, which includes successful and failed log-in attempts, feature utilization, types of items stored in your vault, and sharing of folders.\n- User-specific information, which may include your IP address, devices utilized and associated with your account, as well as your name, email address, and phone number.\nTo the extent that ‘personal data' is shared with third-parties to provide the services to you and on your behalf, such third-parties shall be identified at LogMeIn's Privacy & Trust Center.\n*Some additional information may be collected if specific features are enabled and/or depending on your LastPass account tier.\n\nOnly you know your master password, and only you can access your vault. Your master password is never shared with LastPass. That’s why millions of people and businesses trust LastPass to keep their information safe. We protect your data at every step.\n\nLastPass is free to download and use on any desktop or laptop computer. LastPass Premium adds more features, like family password sharing, 1 GB of encrypted file storage, Premium two-factor authentication options like YubiKey, and priority tech support. Learn more at https://lastpass.com/go-premium\n\nLearn about more features and get LastPass for Internet Explorer, Firefox, Safari, and Opera from www.LastPass.com","screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/171/171883.png?modified=1543519183","width":440,"height":280,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171883.png?modified=1543519183","thumbnailWidth":440,"thumbnailHeight":280,"caption":"LastPass is an award-winning password manager and form fill for all browsers, platforms, and mobile devices."},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/191/191654.png?modified=1543519184","width":700,"height":438,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/191/191654.png?modified=1543519184","thumbnailWidth":640,"thumbnailHeight":400},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/191/191653.png?modified=1543519185","width":700,"height":438,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/191/191653.png?modified=1543519185","thumbnailWidth":640,"thumbnailHeight":400},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/191/191652.png?modified=1543519186","width":700,"height":438,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/191/191652.png?modified=1543519186","thumbnailWidth":640,"thumbnailHeight":400}],"homepageURL":"https://lastpass.com/","supportURL":"http://forums.lastpass.com/","contributionURL":"","averageRating":3.7042,"reviewCount":4301,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/lastpass-password-manager/reviews/","weeklyDownloads":38540,"sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3521410/lastpass_password_manager-4.43.1.2-fx.xpi?src=","updateDate":1583849845000},{"id":"{7a7a4a92-a2a0-41d1-9fd7-1e92480d612d}","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-32.png?modified=1542603952","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-64.png?modified=1542603952","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-128.png?modified=1542603952"},"type":"extension","name":"Stylus","version":"1.5.10","creator":{"name":"Stylus Team","url":"https://addons.mozilla.org/en-US/firefox/user/13438734/"},"developers":[{"name":"Jeremy Schomery","url":"https://addons.mozilla.org/en-US/firefox/user/11568224/"}],"description":"Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager. Easily install custom themes from popular online repositories, or create, edit, and manage your own personalized CSS stylesheets.","fullDescription":"Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager. Easily install custom themes from popular online repositories, or create, edit, and manage your own personalized CSS stylesheets.\n\n\nFeatures\n\n    Versatility of theme installation options. Stylus supports installs from popular online repositories. Additionally, styles can now also be installed from .user.css or .user.styl URLs (see Usercss format documentation in our github wiki).\n    A backup feature for your entire database of installed styles which is compatible with other userstyles managers.\n    An intuitive and configurable automatic update function for installed styles.\n    A highly customizable UI, including theming, optional layouts, icon and badge color choices, along with many other tweaks.\n    Two different optional code validators with user configurable rules.\n\n\nUseful Links\n\n    Source code: https://github.com/openstyles/stylus\n    Video tutorial: https://youtu.be/fCVvGwoF5cQ\n    Chat room: https://discord.gg/tzXVNJz\n    Frequently asked questions: https://github.com/openstyles/stylus/wiki/FAQ\n    Technical bug report: https://github.com/openstyles/stylus/issues\n    General discussion and bug report: https://add0n.com/stylus.html#reviews\n    Localization: https://www.transifex.com/github-7/Stylus/dashboard/\n\n\nPermissions\n\nStylus uses only a small subset of each permission. As you can see in WebExtensions API documentation or simplified tutorials, there's no way to apply any modifications to a web page without gaining the full access permission to that page. Stylus is mostly used to apply global themes, which is why it requests a global permission. In the future we might be able to implement a more granular approach but it's not exactly trivial.\n\n    Access your data for all websites - required for the style elements to be added into the page, not to access any of your data.\n    Access browser tabs - required to show styles in the popup, and for some auxiliary features like regexp tester in the editor.\n    Access browser activity during navigation - required to insert the styles at the exact moment the page is navigated to a different URL.\n    Identity - required for access to cloud services to allow importing and exporting of styles (e.g. Dropbox, etc).\n\n\nPrivacy Policy\n\nUnlike other similar extensions, we don't find you to be all that interesting. Your questionable browsing history should remain between you and the NSA. Stylus collects nothing. Period.\n\n\nFirefox related notes\n\n    To import styles from Stylish add-on please read https://github.com/openstyles/stylus/wiki/FAQ#how-can-i-export-my-user-styles-from-stylish-for-firefox-to-stylus\n    Stylus doesn't apply userstyles to the browser UI or the built-in pages like about:addons because there's no WebExtension API for dynamic application of CSS. You may use another extension that runs an externally installed companion utility to modify userChrome.css and userContent.css and restart Firefox. This restriction is imposed intentionally by Mozilla for security purposes. We don't plan to incorporate the above-mentioned workaround. See https://github.com/openstyles/stylus/wiki/Styling-Firefox-UI\n    Export backups of your database frequently. The main reason we've kept the \"beta\" status for so long is because WebExtension support is still a work in progress for Firefox. Many Firefox specific workarounds have been implemented, but backing up your DB regularly will save you a lot of aggravation should something happen to go wrong.","screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/184/184539.png?modified=1543520845","width":700,"height":517,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/184/184539.png?modified=1543520845","thumbnailWidth":640,"thumbnailHeight":473,"caption":"Promo"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/184/184538.png?modified=1543520846","width":700,"height":438,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/184/184538.png?modified=1543520846","thumbnailWidth":640,"thumbnailHeight":400,"caption":"Editor"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/200/200986.png?modified=1543520849","width":843,"height":597,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200986.png?modified=1543520849","thumbnailWidth":640,"thumbnailHeight":453,"caption":"Manager - customizing a usercss style"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/200/200987.png?modified=1543520853","width":970,"height":865,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200987.png?modified=1543520853","thumbnailWidth":538,"thumbnailHeight":480,"caption":"Editor - showing RegExp tester and colorpicker"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/200/200985.png?modified=1543520855","width":538,"height":610,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200985.png?modified=1543520855","thumbnailWidth":423,"thumbnailHeight":480,"caption":"Popup - customizing a usercss style"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/200/200988.png?modified=1543520857","width":576,"height":727,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200988.png?modified=1543520857","thumbnailWidth":380,"thumbnailHeight":480,"caption":"Popup - finding styles"}],"homepageURL":"https://add0n.com/stylus.html","supportURL":"https://github.com/openstyles/stylus/issues","contributionURL":"","averageRating":4.5861,"reviewCount":245,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/styl-us/reviews/","weeklyDownloads":4742,"sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3515614/stylus-1.5.10-fx.xpi?src=","updateDate":1583256170000},{"id":"{b743f56d-1cc1-4048-8ba6-f9c2ab7aa54d}","icons":{"32":"https://addons.cdn.mozilla.net/static/img/addon-icons/default-32.png","64":"https://addons.cdn.mozilla.net/static/img/addon-icons/default-64.png","128":"https://addons.cdn.mozilla.net/static/img/addon-icons/default-128.png"},"type":"theme","name":"Dracula Dark Theme","version":"1.8","creator":{"name":"Raph","url":"https://addons.mozilla.org/en-US/firefox/user/15445174/"},"developers":[],"description":"This is a theme based in the Dracula color palette.","fullDescription":"Dracula for Firefox\n\nAbout Dracula:\nDracula is a project created by Zeno Rocha with the help of many awesome contributors and maintainers.\n\nThe dracula theme is also available officially for other platforms such as: Visual Studio Code, Atom, Telegram and many more. You can find them here.\n\nFor unofficial themes you can check out Dracula's github\n\nIf you would like to help, contribute to the project on Github.","screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796581.png?modified=1574974702","width":680,"height":92,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796581.png?modified=1574974702","thumbnailWidth":473,"thumbnailHeight":64},{"url":"https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796582.png?modified=1574974703","width":760,"height":92,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796582.png?modified=1574974703","thumbnailWidth":529,"thumbnailHeight":64},{"url":"https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796583.png?modified=1574974703","width":720,"height":92,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796583.png?modified=1574974703","thumbnailWidth":501,"thumbnailHeight":64}],"homepageURL":null,"supportURL":null,"contributionURL":"","averageRating":5,"reviewCount":2,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/reviews/","weeklyDownloads":510,"sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3457650/dracula_dark_theme-1.8-an+fx.xpi?src=","updateDate":1574976079000},{"id":"jid1-MnnxcxisBPnSXQ@jetpack","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-32.png?modified=mcrushed","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-64.png?modified=mcrushed","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-128.png?modified=mcrushed"},"name":"Privacy Badger","version":"2020.2.19","sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3509922/privacy_badger-2020.2.19-an+fx.xpi?src=","homepageURL":"https://www.eff.org/privacybadger","supportURL":"https://github.com/EFForg/privacybadger","description":"Automatically learns to block invisible trackers.","fullDescription":"Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.\n\nPrivacy Badger sends the Do Not Track signal with your browsing. If trackers ignore your wishes, your Badger will learn to block them. Privacy Badger starts blocking once it sees the same tracker on three different websites.\n\nBesides automatic tracker blocking, Privacy Badger removes outgoing link click tracking on Facebook, Google and Twitter, with more privacy protections on the way.\n\nTo learn more, see the FAQ on Privacy Badger's homepage.\n\nPrivacy Badger is a project of the Electronic Frontier Foundation.","weeklyDownloads":30120,"type":"extension","creator":{"name":"EFF Technologists","url":"https://addons.mozilla.org/en-US/firefox/user/5474073/"},"developers":[],"screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/225/225184.png?modified=1569261286","width":1920,"height":1080,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/225/225184.png?modified=1569261286","thumbnailWidth":640,"thumbnailHeight":360,"caption":"Privacy Badger is a project of the Electronic Frontier Foundation"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/171/171793.png?modified=1569261279","width":700,"height":394,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171793.png?modified=1569261279","thumbnailWidth":640,"thumbnailHeight":360,"caption":"Privacy Badger at work on the whitehouse.gov privacy policy page."}],"contributionURL":"","averageRating":4.7596,"reviewCount":373,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/reviews/","updateDate":1582193247000},{"id":"https-everywhere@eff.org","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-32.png?modified=mcrushed","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-64.png?modified=mcrushed","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-128.png?modified=mcrushed"},"name":"HTTPS Everywhere","version":"2019.11.7","sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3442258/https_everywhere-2019.11.7-an+fx.xpi?src=","homepageURL":"https://www.eff.org/https-everywhere","supportURL":"https://www.eff.org/https-everywhere","description":"Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.","fullDescription":"Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site.\n\nThe HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS.","weeklyDownloads":36749,"type":"extension","creator":{"name":"EFF Technologists","url":"https://addons.mozilla.org/en-US/firefox/user/5474073/"},"developers":[],"screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/214/214771.png?modified=1549592598","width":1280,"height":800,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/214/214771.png?modified=1549592598","thumbnailWidth":640,"thumbnailHeight":400}],"contributionURL":"","averageRating":4.5803,"reviewCount":484,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/reviews/","updateDate":1573556866000},{"id":"jid1-QoFqdK4qzUfGWQ@jetpack","icons":{"32":"https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-32.png?modified=1578855484","64":"https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-64.png?modified=1578855484","128":"https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-128.png?modified=1578855484"},"name":"Dark Background and Light Text","version":"0.7.2","sourceURI":"https://addons.mozilla.org/firefox/downloads/file/3453724/dark_background_and_light_text-0.7.2-an+fx.xpi?src=","homepageURL":"https://github.com/m-khvoinitsky/dark-background-light-text-extension","supportURL":null,"description":"Make every web page (or just the pages you want) display light text on dark backgrounds. All color variations are fully customizable.","fullDescription":"Changing the look of web pages is easy with Dark Background and Light Text. Access controls from the button in the toolbar menu to customize the display of any page.\n\nSubmit bug reports and feature requests to dark-bg-light-text-mozilla@khvoinitsky.org\nOr create an issue on github if you have a github account.\n\nIf you'd like to support the development of the extension, consider donation:\n\n    Patreon: https://www.patreon.com/m_khvoinitsky\n    Flattr: https://flattr.com/@m_khvoinitsky\n    Bitcoin: 1PDw93kYHbHjLFs4QRpMwQzoEtyXM7sA15\n    Litecoin: LMcdB5zGpDHdkX6aaBv8EX9qsvk99ga7kB\n    Ethereum: 0xabBD6B179177e06C010218697e45243CBbF42De8\n    Monero: 43mSrRQYGuSa1x76gMXH2KRSmADmRLjoFQdGfN66hG3rXsRwd69aNKdeodmsVsD2oLdnVAsmYyaAGfQ3uT923CBCLyavk1J","weeklyDownloads":6312,"type":"extension","creator":{"name":"Mikhail Khvoinitsky","url":"https://addons.mozilla.org/en-US/firefox/user/4638099/"},"developers":[],"screenshots":[{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/171/171088.png?modified=1543520349","width":700,"height":376,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171088.png?modified=1543520349","thumbnailWidth":640,"thumbnailHeight":344},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/171/171089.png?modified=1543520351","width":700,"height":376,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171089.png?modified=1543520351","thumbnailWidth":640,"thumbnailHeight":344,"caption":"Any colour you like"},{"url":"https://addons.cdn.mozilla.net/user-media/previews/full/171/171090.png?modified=1543520351","width":328,"height":525,"thumbnailURL":"https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171090.png?modified=1543520351","thumbnailWidth":300,"thumbnailHeight":480,"caption":"Works on Android too"}],"contributionURL":"","averageRating":4.621,"reviewCount":479,"reviewURL":"https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/reviews/","updateDate":1574625129000}]}
+{
+  "schema": 6,
+  "addons": [
+    {
+      "id": "{b9db16a4-6edc-47ec-a1f4-b86292ed211d}",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-32.png?modified=mcrushed",
+        "64": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-64.png?modified=mcrushed",
+        "128": "https://addons.cdn.mozilla.net/user-media/addon_icons/3/3006-128.png?modified=mcrushed"
+      },
+      "type": "extension",
+      "name": "Video DownloadHelper",
+      "version": "7.3.7",
+      "creator": { "name": "mig", "url": "https://addons.mozilla.org/en-US/firefox/user/32479/" },
+      "developers": [],
+      "description": "The easy way to download and convert Web videos from hundreds of YouTube-like sites.",
+      "fullDescription": "Video DownloadHelper is the most complete tool for extracting videos and image files from websites and saving them to your hard drive.\n\nJust surf the web as you normally do. When DownloadHelper detects embedded videos it can access for download, the toolbar icon highlights and a simple menu allows you to download files by simply clicking an item.\n\nFor instance, if you go to a YouTube page, you'll be able to download the video directly on your file system. It also works with most other popular video sites like DailyMotion, Facebook, Periscope, Vimeo, Twitch, Liveleak, Vine, UStream, Fox, Bloomberg, RAI, France 2-3, Break, Metacafe, and thousands of others.\n\nVideo DownloadHelper supports several types of streamings, making the add-on unique amongst Video downloaders: HTTP, HLS, DASH, … Whenever a site uses a non-supported streaming technology, Video DownloadHelper is able to capture the media directly from the screen and generate a video file.\n\nBesides downloading, Video DownloadHelper is also capable of making file conversions (i.e. change audio and video formats) and aggregation (combining separate audio and video into a single file). This is an upgrade feature that helps pay for the free stuff (we need to eat too). You are not compelled to use conversion for downloading videos from websites, and you can avoid picking variants marked as ADP to avoid the need for aggregation.\n\nVideo overview on how to use Video DownloadHelper: https://www.youtube.com/watch?v=mZT8yI60k_4\n\nSupport can be obtained from the dedicated support forum.\n\nPlease stay tuned by following us on Twitter (@downloadhelper), or Facebook.",
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/25/25993.png?modified=1543518772",
+          "width": 200,
+          "height": 150,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/25/25993.png?modified=1543518772",
+          "thumbnailWidth": 200,
+          "thumbnailHeight": 150,
+          "caption": "Video DownloadHelper"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/154/154820.png?modified=1543518772",
+          "width": 327,
+          "height": 124,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154820.png?modified=1543518772",
+          "thumbnailWidth": 327,
+          "thumbnailHeight": 124,
+          "caption": "Video DownloadHelper animated toobar icon"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/154/154824.png?modified=1543518773",
+          "width": 250,
+          "height": 200,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154824.png?modified=1543518773",
+          "thumbnailWidth": 250,
+          "thumbnailHeight": 200,
+          "caption": "Video DownloadHelper main panel"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/154/154822.png?modified=1543518774",
+          "width": 361,
+          "height": 289,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154822.png?modified=1543518774",
+          "thumbnailWidth": 361,
+          "thumbnailHeight": 289,
+          "caption": "Video DownloadHelper main panel"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/154/154826.png?modified=1543518774",
+          "width": 320,
+          "height": 317,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154826.png?modified=1543518774",
+          "thumbnailWidth": 320,
+          "thumbnailHeight": 317,
+          "caption": "Video DownloadHelper available actions"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/154/154828.png?modified=1543518775",
+          "width": 293,
+          "height": 250,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/154/154828.png?modified=1543518775",
+          "thumbnailWidth": 293,
+          "thumbnailHeight": 250,
+          "caption": "Video DownloadHelper quality variants settings"
+        }
+      ],
+      "homepageURL": "http://www.downloadhelper.net/",
+      "supportURL": "http://www.downloadhelper.net/support.php",
+      "contributionURL": "",
+      "averageRating": 4.2773,
+      "reviewCount": 16491,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/reviews/",
+      "weeklyDownloads": 129208,
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3054598/video_downloadhelper-7.3.7-fx.xpi?src=",
+      "updateDate": 1583224811000
+    },
+    {
+      "id": "{7a7a4a92-a2a0-41d1-9fd7-1e92480d612d}",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-32.png?modified=1542603952",
+        "64": "https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-64.png?modified=1542603952",
+        "128": "https://addons.cdn.mozilla.net/user-media/addon_icons/814/814814-128.png?modified=1542603952"
+      },
+      "type": "extension",
+      "name": "Stylus",
+      "version": "1.5.10",
+      "creator": { "name": "Stylus Team", "url": "https://addons.mozilla.org/en-US/firefox/user/13438734/" },
+      "developers": [{ "name": "Jeremy Schomery", "url": "https://addons.mozilla.org/en-US/firefox/user/11568224/" }],
+      "description": "Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager. Easily install custom themes from popular online repositories, or create, edit, and manage your own personalized CSS stylesheets.",
+      "fullDescription": "Redesign your favorite websites with Stylus, an actively developed and community driven userstyles manager. Easily install custom themes from popular online repositories, or create, edit, and manage your own personalized CSS stylesheets.\n\n\nFeatures\n\n    Versatility of theme installation options. Stylus supports installs from popular online repositories. Additionally, styles can now also be installed from .user.css or .user.styl URLs (see Usercss format documentation in our github wiki).\n    A backup feature for your entire database of installed styles which is compatible with other userstyles managers.\n    An intuitive and configurable automatic update function for installed styles.\n    A highly customizable UI, including theming, optional layouts, icon and badge color choices, along with many other tweaks.\n    Two different optional code validators with user configurable rules.\n\n\nUseful Links\n\n    Source code: https://github.com/openstyles/stylus\n    Video tutorial: https://youtu.be/fCVvGwoF5cQ\n    Chat room: https://discord.gg/tzXVNJz\n    Frequently asked questions: https://github.com/openstyles/stylus/wiki/FAQ\n    Technical bug report: https://github.com/openstyles/stylus/issues\n    General discussion and bug report: https://add0n.com/stylus.html#reviews\n    Localization: https://www.transifex.com/github-7/Stylus/dashboard/\n\n\nPermissions\n\nStylus uses only a small subset of each permission. As you can see in WebExtensions API documentation or simplified tutorials, there's no way to apply any modifications to a web page without gaining the full access permission to that page. Stylus is mostly used to apply global themes, which is why it requests a global permission. In the future we might be able to implement a more granular approach but it's not exactly trivial.\n\n    Access your data for all websites - required for the style elements to be added into the page, not to access any of your data.\n    Access browser tabs - required to show styles in the popup, and for some auxiliary features like regexp tester in the editor.\n    Access browser activity during navigation - required to insert the styles at the exact moment the page is navigated to a different URL.\n    Identity - required for access to cloud services to allow importing and exporting of styles (e.g. Dropbox, etc).\n\n\nPrivacy Policy\n\nUnlike other similar extensions, we don't find you to be all that interesting. Your questionable browsing history should remain between you and the NSA. Stylus collects nothing. Period.\n\n\nFirefox related notes\n\n    To import styles from Stylish add-on please read https://github.com/openstyles/stylus/wiki/FAQ#how-can-i-export-my-user-styles-from-stylish-for-firefox-to-stylus\n    Stylus doesn't apply userstyles to the browser UI or the built-in pages like about:addons because there's no WebExtension API for dynamic application of CSS. You may use another extension that runs an externally installed companion utility to modify userChrome.css and userContent.css and restart Firefox. This restriction is imposed intentionally by Mozilla for security purposes. We don't plan to incorporate the above-mentioned workaround. See https://github.com/openstyles/stylus/wiki/Styling-Firefox-UI\n    Export backups of your database frequently. The main reason we've kept the \"beta\" status for so long is because WebExtension support is still a work in progress for Firefox. Many Firefox specific workarounds have been implemented, but backing up your DB regularly will save you a lot of aggravation should something happen to go wrong.",
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/184/184539.png?modified=1543520845",
+          "width": 700,
+          "height": 517,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/184/184539.png?modified=1543520845",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 473,
+          "caption": "Promo"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/184/184538.png?modified=1543520846",
+          "width": 700,
+          "height": 438,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/184/184538.png?modified=1543520846",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 400,
+          "caption": "Editor"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/200/200986.png?modified=1543520849",
+          "width": 843,
+          "height": 597,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200986.png?modified=1543520849",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 453,
+          "caption": "Manager - customizing a usercss style"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/200/200987.png?modified=1543520853",
+          "width": 970,
+          "height": 865,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200987.png?modified=1543520853",
+          "thumbnailWidth": 538,
+          "thumbnailHeight": 480,
+          "caption": "Editor - showing RegExp tester and colorpicker"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/200/200985.png?modified=1543520855",
+          "width": 538,
+          "height": 610,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200985.png?modified=1543520855",
+          "thumbnailWidth": 423,
+          "thumbnailHeight": 480,
+          "caption": "Popup - customizing a usercss style"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/200/200988.png?modified=1543520857",
+          "width": 576,
+          "height": 727,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/200/200988.png?modified=1543520857",
+          "thumbnailWidth": 380,
+          "thumbnailHeight": 480,
+          "caption": "Popup - finding styles"
+        }
+      ],
+      "homepageURL": "https://add0n.com/stylus.html",
+      "supportURL": "https://github.com/openstyles/stylus/issues",
+      "contributionURL": "",
+      "averageRating": 4.5861,
+      "reviewCount": 245,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/styl-us/reviews/",
+      "weeklyDownloads": 4742,
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3515614/stylus-1.5.10-fx.xpi?src=",
+      "updateDate": 1583256170000
+    },
+    {
+      "id": "{b743f56d-1cc1-4048-8ba6-f9c2ab7aa54d}",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/static/img/addon-icons/default-32.png",
+        "64": "https://addons.cdn.mozilla.net/static/img/addon-icons/default-64.png",
+        "128": "https://addons.cdn.mozilla.net/static/img/addon-icons/default-128.png"
+      },
+      "type": "theme",
+      "name": "Dracula Dark Theme",
+      "version": "1.8",
+      "creator": { "name": "Raph", "url": "https://addons.mozilla.org/en-US/firefox/user/15445174/" },
+      "developers": [],
+      "description": "This is a theme based in the Dracula color palette.",
+      "fullDescription": "Dracula for Firefox\n\nAbout Dracula:\nDracula is a project created by Zeno Rocha with the help of many awesome contributors and maintainers.\n\nThe dracula theme is also available officially for other platforms such as: Visual Studio Code, Atom, Telegram and many more. You can find them here.\n\nFor unofficial themes you can check out Dracula's github\n\nIf you would like to help, contribute to the project on Github.",
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796581.png?modified=1574974702",
+          "width": 680,
+          "height": 92,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796581.png?modified=1574974702",
+          "thumbnailWidth": 473,
+          "thumbnailHeight": 64
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796582.png?modified=1574974703",
+          "width": 760,
+          "height": 92,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796582.png?modified=1574974703",
+          "thumbnailWidth": 529,
+          "thumbnailHeight": 64
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/version-previews/full/2796/2796583.png?modified=1574974703",
+          "width": 720,
+          "height": 92,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/version-previews/thumbs/2796/2796583.png?modified=1574974703",
+          "thumbnailWidth": 501,
+          "thumbnailHeight": 64
+        }
+      ],
+      "homepageURL": null,
+      "supportURL": null,
+      "contributionURL": "",
+      "averageRating": 5,
+      "reviewCount": 2,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/dracula-dark-colorscheme/reviews/",
+      "weeklyDownloads": 510,
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3457650/dracula_dark_theme-1.8-an+fx.xpi?src=",
+      "updateDate": 1574976079000
+    },
+    {
+      "id": "jid1-MnnxcxisBPnSXQ@jetpack",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-32.png?modified=mcrushed",
+        "64": "https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-64.png?modified=mcrushed",
+        "128": "https://addons.cdn.mozilla.net/user-media/addon_icons/506/506646-128.png?modified=mcrushed"
+      },
+      "name": "Privacy Badger",
+      "version": "2020.2.19",
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3509922/privacy_badger-2020.2.19-an+fx.xpi?src=",
+      "homepageURL": "https://www.eff.org/privacybadger",
+      "supportURL": "https://github.com/EFForg/privacybadger",
+      "description": "Automatically learns to block invisible trackers.",
+      "fullDescription": "Privacy Badger automatically learns to block invisible trackers. Instead of keeping lists of what to block, Privacy Badger learns by watching which domains appear to be tracking you as you browse the Web.\n\nPrivacy Badger sends the Do Not Track signal with your browsing. If trackers ignore your wishes, your Badger will learn to block them. Privacy Badger starts blocking once it sees the same tracker on three different websites.\n\nBesides automatic tracker blocking, Privacy Badger removes outgoing link click tracking on Facebook, Google and Twitter, with more privacy protections on the way.\n\nTo learn more, see the FAQ on Privacy Badger's homepage.\n\nPrivacy Badger is a project of the Electronic Frontier Foundation.",
+      "weeklyDownloads": 30120,
+      "type": "extension",
+      "creator": { "name": "EFF Technologists", "url": "https://addons.mozilla.org/en-US/firefox/user/5474073/" },
+      "developers": [],
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/225/225184.png?modified=1569261286",
+          "width": 1920,
+          "height": 1080,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/225/225184.png?modified=1569261286",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 360,
+          "caption": "Privacy Badger is a project of the Electronic Frontier Foundation"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/171/171793.png?modified=1569261279",
+          "width": 700,
+          "height": 394,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171793.png?modified=1569261279",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 360,
+          "caption": "Privacy Badger at work on the whitehouse.gov privacy policy page."
+        }
+      ],
+      "contributionURL": "",
+      "averageRating": 4.7596,
+      "reviewCount": 373,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/reviews/",
+      "updateDate": 1582193247000
+    },
+    {
+      "id": "https-everywhere@eff.org",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-32.png?modified=mcrushed",
+        "64": "https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-64.png?modified=mcrushed",
+        "128": "https://addons.cdn.mozilla.net/user-media/addon_icons/229/229918-128.png?modified=mcrushed"
+      },
+      "name": "HTTPS Everywhere",
+      "version": "2019.11.7",
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3442258/https_everywhere-2019.11.7-an+fx.xpi?src=",
+      "homepageURL": "https://www.eff.org/https-everywhere",
+      "supportURL": "https://www.eff.org/https-everywhere",
+      "description": "Encrypt the web! HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.",
+      "fullDescription": "Many sites on the web offer some limited support for encryption over HTTPS, but make it difficult to use. For instance, they may default to unencrypted HTTP, or fill encrypted pages with links that go back to the unencrypted site.\n\nThe HTTPS Everywhere extension fixes these problems by rewriting all requests to these sites to HTTPS.",
+      "weeklyDownloads": 36749,
+      "type": "extension",
+      "creator": { "name": "EFF Technologists", "url": "https://addons.mozilla.org/en-US/firefox/user/5474073/" },
+      "developers": [],
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/214/214771.png?modified=1549592598",
+          "width": 1280,
+          "height": 800,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/214/214771.png?modified=1549592598",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 400
+        }
+      ],
+      "contributionURL": "",
+      "averageRating": 4.5803,
+      "reviewCount": 484,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/reviews/",
+      "updateDate": 1573556866000
+    },
+    {
+      "id": "jid1-QoFqdK4qzUfGWQ@jetpack",
+      "icons": {
+        "32": "https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-32.png?modified=1578855484",
+        "64": "https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-64.png?modified=1578855484",
+        "128": "https://addons.cdn.mozilla.net/user-media/addon_icons/497/497798-128.png?modified=1578855484"
+      },
+      "name": "Dark Background and Light Text",
+      "version": "0.7.2",
+      "sourceURI": "https://addons.mozilla.org/firefox/downloads/file/3453724/dark_background_and_light_text-0.7.2-an+fx.xpi?src=",
+      "homepageURL": "https://github.com/m-khvoinitsky/dark-background-light-text-extension",
+      "supportURL": null,
+      "description": "Make every web page (or just the pages you want) display light text on dark backgrounds. All color variations are fully customizable.",
+      "fullDescription": "Changing the look of web pages is easy with Dark Background and Light Text. Access controls from the button in the toolbar menu to customize the display of any page.\n\nSubmit bug reports and feature requests to dark-bg-light-text-mozilla@khvoinitsky.org\nOr create an issue on github if you have a github account.\n\nIf you'd like to support the development of the extension, consider donation:\n\n    Patreon: https://www.patreon.com/m_khvoinitsky\n    Flattr: https://flattr.com/@m_khvoinitsky\n    Bitcoin: 1PDw93kYHbHjLFs4QRpMwQzoEtyXM7sA15\n    Litecoin: LMcdB5zGpDHdkX6aaBv8EX9qsvk99ga7kB\n    Ethereum: 0xabBD6B179177e06C010218697e45243CBbF42De8\n    Monero: 43mSrRQYGuSa1x76gMXH2KRSmADmRLjoFQdGfN66hG3rXsRwd69aNKdeodmsVsD2oLdnVAsmYyaAGfQ3uT923CBCLyavk1J",
+      "weeklyDownloads": 6312,
+      "type": "extension",
+      "creator": { "name": "Mikhail Khvoinitsky", "url": "https://addons.mozilla.org/en-US/firefox/user/4638099/" },
+      "developers": [],
+      "screenshots": [
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/171/171088.png?modified=1543520349",
+          "width": 700,
+          "height": 376,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171088.png?modified=1543520349",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 344
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/171/171089.png?modified=1543520351",
+          "width": 700,
+          "height": 376,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171089.png?modified=1543520351",
+          "thumbnailWidth": 640,
+          "thumbnailHeight": 344,
+          "caption": "Any colour you like"
+        },
+        {
+          "url": "https://addons.cdn.mozilla.net/user-media/previews/full/171/171090.png?modified=1543520351",
+          "width": 328,
+          "height": 525,
+          "thumbnailURL": "https://addons.cdn.mozilla.net/user-media/previews/thumbs/171/171090.png?modified=1543520351",
+          "thumbnailWidth": 300,
+          "thumbnailHeight": 480,
+          "caption": "Works on Android too"
+        }
+      ],
+      "contributionURL": "",
+      "averageRating": 4.621,
+      "reviewCount": 479,
+      "reviewURL": "https://addons.mozilla.org/en-US/firefox/addon/dark-background-light-text/reviews/",
+      "updateDate": 1574625129000
+    }
+  ]
+}
