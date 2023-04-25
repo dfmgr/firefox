@@ -141,13 +141,16 @@ __run_prepost_install() {
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # run after primary post install function
 __run_post_install() {
-  __cmd_exists firefox-esr && ln_sf "$(type -P "firefox-esr")" "$HOME/.local/bin/firefox"
+  ESR_BIN="$(type -P "firefox-esr" || echo '')"
+  [ -z "$ESR_BIN" ] || ln_sf "$ESR_BIN" "$HOME/.local/bin/firefox"
   if [ ! -f "$APPDIR/.installed" ]; then
     [ -d "$HOME/.cache/mozilla/firefox" ] && rm_rf "$HOME/.cache/mozilla/firefox"
-    [ -d "$INSTDIR/.git" ] || rm_rf "$HOME/.mozilla/firefox"
-    replace "/home/jason" "$HOME" "$APPDIR/default/extensions.json"
-    replace "/home/jason" "$HOME" "$APPDIR/default/prefs.js"
-    ln_sf "$APPDIR" "$HOME/.mozilla/firefox"
+    sed -i "s|/home/jason/|$HOME/|g" "$APPDIR/default/extensions.json"
+    sed -i "s|/home/jason/|$HOME/|g" "$APPDIR/default/prefs.js"
+    if [ ! -L "$HOME/.mozilla/firefox" ]; then
+      rm_rf "$HOME/.mozilla/firefox"
+      ln_sf "$APPDIR/" "$HOME/.mozilla/firefox/"
+    fi
   fi
   return ${?:-0}
 }
