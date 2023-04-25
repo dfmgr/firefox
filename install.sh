@@ -142,8 +142,9 @@ __run_prepost_install() {
 # run after primary post install function
 __run_post_install() {
   ESR_BIN="$(type -P "firefox-esr" || echo '')"
+  [ -d "$HOME/.mozilla" ] || mkdir -p "$HOME/.mozilla"
   [ -z "$ESR_BIN" ] || ln_sf "$ESR_BIN" "$HOME/.local/bin/firefox"
-  if [ ! -f "$APPDIR/.installed" ]; then
+  if [ ! -d "$HOME/.mozilla/firefox" ] || [ ! -f "$APPDIR/.installed" ]; then
     [ -d "$HOME/.cache/mozilla/firefox" ] && rm_rf "$HOME/.cache/mozilla/firefox"
     sed -i "s|/home/jason/|$HOME/|g" "$APPDIR/default/extensions.json"
     sed -i "s|/home/jason/|$HOME/|g" "$APPDIR/default/prefs.js"
