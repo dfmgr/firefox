@@ -149,7 +149,7 @@ __run_post_install() {
     sed -i "s|/home/jason/|$HOME/|g" "$APPDIR/default/prefs.js"
     if [ ! -L "$HOME/.mozilla/firefox" ]; then
       rm_rf "$HOME/.mozilla/firefox"
-      ln_sf "$APPDIR/" "$HOME/.mozilla/firefox/"
+      ln_sf "$APPDIR" "$HOME/.mozilla/firefox"
     fi
   fi
   return ${?:-0}
