@@ -129,7 +129,7 @@ trap_exit
 dfmgr_run_init
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Do not update
-#installer_noupdate "$@"
+installer_noupdate "$@"
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 # Defaults
 APPNAME="firefox"
