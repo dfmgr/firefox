@@ -189,7 +189,10 @@ __run_post_message() {
 # Define pre-install scripts
 __run_pre_install() {
   local getRunStatus=0
-
+  if [ ! -f "$APPDIR/.installed" ]; then
+    __rm_rf "$HOME/.mozilla/firefox"
+    __rm_rf "$HOME/.cache/mozilla/firefox"
+  fi
   return $getRunStatus
 }
 # - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -207,9 +210,10 @@ __run_post_install() {
   [ -d "$HOME/.mozilla" ] || __mkdir "$HOME/.mozilla"
   [ -z "$ESR_BIN" ] || __symlink "$ESR_BIN" "$HOME/.local/bin/firefox"
   if [ ! -d "$HOME/.mozilla/firefox" ] || [ ! -f "$APPDIR/.installed" ]; then
-    [ -d "$HOME/.cache/mozilla/firefox" ] && __rm_rf "$HOME/.cache/mozilla/firefox"
     __replace_one "/home/jason/" "$HOME/" "$APPDIR/default/extensions.json"
     __replace_one "/home/jason/" "$HOME/" "$APPDIR/default/prefs.js"
+    __replace_one "/home/jason/" "$HOME/" "$APPDIR/default-esr/extensions.json"
+    __replace_one "/home/jason/" "$HOME/" "$APPDIR/default-esr/prefs.js"
     if [ ! -L "$HOME/.mozilla/firefox" ]; then
       __rm_rf "$HOME/.mozilla/firefox"
       __symlink "$APPDIR" "$HOME/.mozilla/firefox"
